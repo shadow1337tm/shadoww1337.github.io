@@ -2,7 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/shadoww1337/shadoww1337.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-[editor on GitHub](https://youtube.com/pepohax) ![image](https://cdn.discordapp.com/attachments/979398688080277584/980547208615174194/unknown.png)
+//[editor on GitHub](https://youtube.com/pepohax) 
+![image](https://youtube.com/pepohax)[youtube]
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
